@@ -1,3 +1,3 @@
 # PokeApp
 
-![](static/image/ppkk.gif)
+![](static/image/pokeapp.gif)
